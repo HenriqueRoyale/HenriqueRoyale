@@ -1,6 +1,6 @@
 # Hi there, I'm Henrique Fernandes Silvestre 👋
 
-🎓 **Estudante de Ciência de Dados e Inteligência Artificial** na **PUC-Campinas** (2025–2029).  
+🎓 **Estudante de Ciência de Dados e Inteligência Artificial** na **PUC-Campinas** (2025–2028).  
 💡 Apaixonado por transformar dados em soluções inteligentes, criar automações e explorar o potencial da **Inteligência Artificial Generativa** e do **Aprendizado de Máquina**.
 
 ---
